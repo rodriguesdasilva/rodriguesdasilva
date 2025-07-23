@@ -1,6 +1,10 @@
 <h1 align="left">
 Hello! I'm Emerson Rodrigues</h1>
 
+- 📚 Atualmente estou estudando Django e MySQL.
+- 🎯 Meu objetivo e ser desenvolvedor fullstack.
+- 
+
 ###
 
 <div align="center">
