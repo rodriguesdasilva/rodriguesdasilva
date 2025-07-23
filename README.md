@@ -1,11 +1,16 @@
-<h1 align="left">
-Hello! I'm Emerson Rodrigues</h1>
+<h1 align="left"> Hello! I'm Emerson Rodrigues</h1>
 
-- 📚 Atualmente estou estudando Django e MySQL.
-- 🎯 Meu objetivo e ser desenvolvedor fullstack.
-- 
+<h2 align="left">💫 Sobre Mim</h2>
 
-###
+- 📚 Atualmente estou estudando Python, Django e MySQL.
+- 🏆 Meu objetivo e ser desenvolvedor fullstack.
+- ⌨️ Tenho conhecimento em HTML e CSS.
+- ✏️ aprendo as coisas rapido.
+- 🎯 Sou focado e adoro me aprofundar no mundo da tecnologia
+
+desenvolvedor fullstack. Atualmente, estou dedicando meus estudos a Python, Django e MySQL, enquanto aprimoro meus conhecimentos em HTML e CSS. Minha capacidade de aprender rapidamente me permite absorver novas informações e tecnologias de forma eficiente, impulsionando minha jornada para alcançar meu objetivo.
+  
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodriguesdasilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
