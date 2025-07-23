@@ -5,8 +5,8 @@
 - 📚 Atualmente estou estudando Python, Django e MySQL.
 - 🏆 Meu objetivo e ser desenvolvedor fullstack.
 - ⌨️ Tenho conhecimento em HTML e CSS.
-- ✏️ aprendo as coisas rapido.
-- 🎯 Sou focado e adoro me aprofundar no mundo da tecnologia
+- 🎯 Sou focado e adoro me aprofundar no mundo da tecnologia.
+- 🧠 Aprendo as coisas rapido.
 
 Atualmente, estou dedicando meus estudos a Python, Django e MySQL, enquanto aprimoro meus conhecimentos em HTML e CSS. Minha capacidade de aprender rapidamente me permite absorver novas informações e tecnologias de forma eficiente, impulsionando minha jornada para alcançar meu objetivo.
   
