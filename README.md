@@ -2,9 +2,9 @@
 
 <h2 align="left">💫 Sobre Mim</h2>
 
-- 📚 Atualmente estou estudando Python, Django e MySQL.
+- 📚 Atualmente estou estudando React e Node.
 - 🏆 Meu objetivo e ser desenvolvedor fullstack.
-- ⌨️ Tenho conhecimento em HTML e CSS.
+- ⌨️ Tenho conhecimento em HTTML, CSS, Python, Django e MySql.
 - 🎯 Sou focado e adoro me aprofundar no mundo da tecnologia.
 - 🧠 Aprendo as coisas rapido.
 
