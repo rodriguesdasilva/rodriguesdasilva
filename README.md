@@ -4,7 +4,7 @@
 
 - 📚 Atualmente estou estudando React e Node.
 - 🏆 Meu objetivo e ser desenvolvedor fullstack.
-- ⌨️ Tenho conhecimento em HTTML, CSS, Python, Django e MySql.
+- ⌨️ Tenho conhecimento em HTTML, CSS, Python, Django.
 - 🎯 Sou focado e adoro me aprofundar no mundo da tecnologia.
 - 🧠 Aprendo as coisas rapido.
 
